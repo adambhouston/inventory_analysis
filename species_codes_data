@@ -1,0 +1,40 @@
+common,binomial,code,fc
+white oak,quercus alba,qual,78
+black oak,quercus velutina,quve,78
+red oak,quercus rubra,quru,78
+scarlet oak,quercus coccinea,quco,78
+chestnut oak,quercus montana,qumo,78
+pin oak,quercus palustris,qupa,78
+black birch,betula lenta,bele,78
+yellow birch,betula alleghensis,beal,78
+gray birch,betula populifolia,bepo,78
+paper birch,betula papyrifera,bepa,78
+red maple,acer rubrum,acru,78
+sugar maple,acer saccharum,acsa,78
+striped maple,acer pennsylvanica,acpe,78
+boxelder maple,acer negundo,acne,78
+red pine,pinus resinosa,pire,80
+white pine,pinus strobus,pist,80
+hemlock,tsuga canadensis,tsca,76
+basswood,tilia americana,tiam,78
+ironwood,ostrya virginiana,osvi,78
+musclewood,carpinus caroliniana,caca,78
+american beech,fagus grandifolia,fagr,78
+black cherry,prunus serotina,prse,78
+pin cherry,prunus pennsylvanica,prpe,78
+big tooth aspen,populus grandidentata,pogr,78
+cottonwood,populus deltoides,pode,78
+black gum,nyssa sylvatica,nysy,78
+shagbark hickory,carya ovata,caov,78
+other hickory,carya,ca,78
+white ash,fraxinus americana,fram,78
+green ash,fraxinus pennsylvanica,frpe,78
+tulip poplar,liriodendron tulipifera,litu,78
+american elm,ulmus americana,ulam,78
+slippery elm,ulmus rubra,ulru,78
+black locust,robinia pseudoacacia,rops,78
+honey locust,gleditsia triacanthos,gltr,78
+black walnut,juglans nigra,juni,78
+american chestnut,castanea dentata,cade,78
+norway spruce,picea abies,piab,78
+sassafras,sassafras albidum,saal,78
